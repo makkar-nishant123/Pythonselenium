@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Grid/python_selenium_parallel_tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-lettuce-web-browser-automation-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-selenium-grid-web-browser-automation-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_selenium_parallel_tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_testing_basics" vcs="Git" />
+  </component>
+</project>

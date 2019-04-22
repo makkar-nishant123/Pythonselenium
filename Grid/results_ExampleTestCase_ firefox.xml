@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<testsuite errors="1" failures="0" name="ExampleTestCase-20190406180024" tests="1" time="0.001">
+	<testcase classname="ExampleTestCase" name="test_example" time="0.001">
+		<error message="name 'node' is not defined" type="NameError">
+<![CDATA[Traceback (most recent call last):
+  File "testgrid.py", line 14, in setUp
+    self.driver = webdriver.Remote(desired_capabilities={"browserName": broswer,"platform": platform,"node":node})
+NameError: name 'node' is not defined
+]]>		</error>
+	</testcase>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
